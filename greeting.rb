@@ -1,4 +1,7 @@
-def stylish_chef
-  best_hairstyle = "Guy Fieri"
-  return "Martha Stewart"
-end
+shipping_manifest = {
+  "whale bone corset" => 5
+  "porcelain vase" => 2 
+  "oil painting" => 3
+  "silverware" => 34
+  "loom" => 1 
+}
